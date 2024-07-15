@@ -102,6 +102,7 @@ namespace Smart_Cart_Application
             Console.Clear();
             Console.WriteLine("Welcome to the Electronics Store!");
             Console.WriteLine("Available Products:");
+              
 
             var products = store.GetAvailableProducts();
 
